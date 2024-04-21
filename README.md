@@ -9,7 +9,13 @@
 
 | Name                                             | Contact                       |
 | ------------------------------------------------ | ----------------------------- |
-| [성명/@깃이름](https://github.com/Seokwoodang)    | 이메일 |
+| [이민석@unchaptered](https://github.com/unchaptered) | - |
+| [김주혁@playhuck](https://github.com/playhuck) | - |
+| [김혜린@OolongTea620](https://github.com/OolongTea620) | - |
+| [이정민@pragmatizer](https://github.com/pragmatizer) | - |
+| [소재훈@jay-so](https://github.com/jay-so) | - |
+| [현진호@neverlish](https://github.com/neverlish) | - |
+| [김정규@lenkim](https://github.com/lenkim) | - |
 
 ## 2. Group Rules
 
